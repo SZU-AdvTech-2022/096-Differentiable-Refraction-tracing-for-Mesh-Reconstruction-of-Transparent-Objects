@@ -1,0 +1,5 @@
+@inproceedings{JiahuiLyu2020DifferentiableRF,  
+title={Differentiable Refraction-tracing for Mesh Reconstruction of
+Transparent Objects},  
+author={Jiahui Lyu and Bojian Wu and Dani Lischinski and Daniel Cohen-Or and Hui Huang},  
+year={2020}}
